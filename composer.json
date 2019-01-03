@@ -1,0 +1,53 @@
+{
+    "name": "rende/nova-menu",
+    "description": "Menu management tool for nova",
+    "keywords": [
+        "laravel",
+        "nova"
+    ],
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../laravel-nova"
+        }
+    ],
+    "homepage": "https://github.com/rende/nova-menu",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rehan & Babatunde",
+            "email": "babatundeakinse@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "laravel/nova": "*"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^3.6",
+        "phpunit/phpunit": "7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rende\\NovaMenu\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Rende\\NovaMenu\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Rende\\NovaMenu\\ToolServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
