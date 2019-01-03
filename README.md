@@ -59,7 +59,8 @@ If you discover any security related issues, please email babatundeakinse@gmail.
 
 ## Credits
 
-- [Rehan & Babatunde](https://github.com/babatundeakinse)
+- [Rehan](https://github.com/advoor)
+- [Babatunde Akinse](https://github.com/babatundeakinse)
 
 ## Support us
 
