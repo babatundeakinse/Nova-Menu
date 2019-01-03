@@ -15,8 +15,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Rehan & Babatunde",
+            "name": "Babatunde Akinse",
             "email": "babatundeakinse@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Rehan",
+            "email": "",
             "role": "Developer"
         }
     ],
