@@ -62,6 +62,11 @@ If you discover any security related issues, please email babatundeakinse@gmail.
 - [Rehan Aslam](https://github.com/advoor)
 - [Babatunde Akinse](https://github.com/babatundeakinse)
 
+## Project Road Map
+- [ ] Menu Management
+- [ ] Menu Positioning
+- [ ] Draggable UI
+
 ## Support us
 
 Rende
