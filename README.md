@@ -59,7 +59,7 @@ If you discover any security related issues, please email babatundeakinse@gmail.
 
 ## Credits
 
-- [Rehan](https://github.com/advoor)
+- [Rehan Aslam](https://github.com/advoor)
 - [Babatunde Akinse](https://github.com/babatundeakinse)
 
 ## Support us
